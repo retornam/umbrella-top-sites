@@ -1,0 +1,4 @@
+build/*
+dist/*
+umbrella_top_sites.egg-info/*
+*.pyc
